@@ -1,0 +1,23 @@
+header{
+    /*debug*/
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.row{
+    /*debug*/
+    border: 1px solid black;
+}
+
+[class*="col"]{
+    /*debug*/
+    border: 1px solid black;
+}
+
+.box{
+    /*debug*/
+    height: 200px;
+    border: 1px solid black;
+    background-color: coral;
+}
+
