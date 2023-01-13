@@ -1,7 +1,29 @@
 header{
-    /*debug*/
-    background-color: aqua;
-    border: 1px solid black;
+    color:white;
+    background-color: #2C3E50;
+}
+
+.jumbotron{
+    color:white;
+    background-color: #1ABC9C;
+}
+
+.avatar{
+    width: 100px;
+}
+
+.project{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.about{
+    color: white;
+    background-color: #1ABC9C;
+}
+
+footer{
+    background-color:#3A546D;
 }
 
 .row{
@@ -16,7 +38,14 @@ header{
 
 .box{
     /*debug*/
-    height: 200px;
     border: 1px solid black;
     background-color: coral;
+}
+
+img{
+    width: 100px;
+}
+
+ul{
+    list-style: none;
 }
