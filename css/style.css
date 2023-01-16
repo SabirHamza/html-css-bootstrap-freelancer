@@ -1,11 +1,15 @@
 header{
-    color:white;
+    color: white;
     background-color: #2C3E50;
 }
 
 .jumbotron{
     color:white;
     background-color: #1ABC9C;
+}
+
+ul{
+    list-style: none;
 }
 
 .avatar{
@@ -22,30 +26,26 @@ header{
     background-color: #1ABC9C;
 }
 
-footer{
+.link{
+    color: white;
     background-color:#3A546D;
 }
 
-.row{
-    /*debug*/
-    border: 1px solid black;
+.copy{
+    color: white;
+    background-color: #2C3E50;
 }
 
-[class*="col"]{
-    /*debug*/
-    border: 1px solid black;
+.line{
+    height: 5px;
+
+    border-radius: 5px;  
 }
 
-.box{
-    /*debug*/
-    border: 1px solid black;
-    background-color: coral;
+.white{
+    background-color: white;
 }
 
-img{
-    width: 100px;
-}
-
-ul{
-    list-style: none;
+.black{
+    background-color: black;
 }
